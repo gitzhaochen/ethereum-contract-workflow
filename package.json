@@ -1,0 +1,27 @@
+{
+  "name": "ethereum-contract-workflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitzhaochen/ethereum-contract-workflow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitzhaochen/ethereum-contract-workflow/issues"
+  },
+  "homepage": "https://github.com/gitzhaochen/ethereum-contract-workflow#readme",
+  "devDependencies": {
+    "solc": "^0.4.24"
+  },
+  "dependencies": {
+    "truffle-hdwallet-provider": "^0.0.3",
+    "web3": "^1.0.0-beta.34"
+  }
+}
